@@ -3,3 +3,4 @@ receips
 
 kheer
 pasta
+pizza
